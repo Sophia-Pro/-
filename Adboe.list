@@ -29,6 +29,44 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,arkoselabs.com
+PROCESS-NAME,Photoshop.exe
+PROCESS-NAME,AfterFX.exe,
+PROCESS-NAME,AdobeIPCBroker.exe
+PROCESS-NAME,AdobeGCClient.exe
+PROCESS-NAME,Creative Cloud.exe
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobecc.com
+DOMAIN-SUFFIX,adobeid-na1.services.adobe.com
+DOMAIN-SUFFIX,adobeid.services.adobe.com
+DOMAIN-SUFFIX,assets.adobe.com
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,cc-api-storage.adobe.io
+DOMAIN-SUFFIX,creativecloud.adobe.com
+DOMAIN-SUFFIX,ims-na1.adobelogin.com
+DOMAIN-SUFFIX,license.adobe.com
+DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,trial.adobe.com
+DOMAIN-SUFFIX,prod.adobegenuine.com
+DOMAIN-SUFFIX,adobe-prod.licenses.adobe.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,qa80h1wxzv.adobestats.io
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobesc.com
+DOMAIN-SUFFIX,adobeevent.com
+DOMAIN-SUFFIX,adobemarketingcloud.com
+DOMAIN-SUFFIX,adobetag.com
+DOMAIN-SUFFIX,adobe-dns.com
+DOMAIN,activate.adobe.com
+DOMAIN,practivate.adobe.com
+DOMAIN,ereg.adobe.com
+DOMAIN,hl2rcv.adobe.com
+DOMAIN,lm.licenses.adobe.com
+DOMAIN,na1r.services.adobe.com
+DOMAIN,cc-api-data.adobe.io
+DOMAIN-SUFFIX,licenses.adobe.com
 
 # Adobe 相关 IP 段
 IP-CIDR,63.140.32.0/19,no-resolve
@@ -38,3 +76,12 @@ IP-CIDR,130.248.0.0/16,no-resolve
 IP-CIDR,172.82.192.0/18,no-resolve
 IP-CIDR,185.34.188.0/22,no-resolve
 IP-CIDR,192.243.240.0/22,no-resolve
+IP-CIDR,193.104.215.0/24,no-resolve
+IP-CIDR,192.150.14.0/24,no-resolve
+IP-CIDR,192.150.18.0/24,no-resolve
+IP-CIDR,192.150.22.0/24,no-resolve
+IP-CIDR,192.150.8.0/24,no-resolve
+IP-CIDR,192.150.12.0/24,no-resolve
+IP-CIDR,192.150.16.0/24,no-resolve
+IP-CIDR,192.150.49.0/24,no-resolve
+IP-CIDR,3.210.0.0/15,no-resolve
