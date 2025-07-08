@@ -89,4 +89,3 @@ IP-CIDR,192.243.242.0/24,no-resolve
 #弗吉尼亚州
 IP-CIDR,63.140.38.0/23,no-resolve
 IP-CIDR,63.140.54.0/24,no-resolve
-IP-CIDR,67.202.5.244,no-resolve
