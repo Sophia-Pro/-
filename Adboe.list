@@ -25,8 +25,8 @@ DOMAIN-SUFFIX,ftcdn.net
 DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,slp-statics.astockcdn.net
-DOMAIN-SUFFIX,s3.amazonaws.com (Amazon Web Services)
-DOMAIN-SUFFIX,cloudfront.net (Amazon CloudFront)
+DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,arkoselabs.com
