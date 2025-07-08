@@ -59,13 +59,13 @@ DOMAIN-SUFFIX,adobeevent.com
 DOMAIN-SUFFIX,adobemarketingcloud.com
 DOMAIN-SUFFIX,adobetag.com
 DOMAIN-SUFFIX,adobe-dns.com
-DOMAIN,activate.adobe.com
-DOMAIN,practivate.adobe.com
-DOMAIN,ereg.adobe.com
-DOMAIN,hl2rcv.adobe.com
-DOMAIN,lm.licenses.adobe.com
-DOMAIN,na1r.services.adobe.com
-DOMAIN,cc-api-data.adobe.io
+DOMAIN-SUFFIX,activate.adobe.com
+DOMAIN-SUFFIX,practivate.adobe.com
+DOMAIN-SUFFIX,ereg.adobe.com
+DOMAIN-SUFFIX,hl2rcv.adobe.com
+DOMAIN-SUFFIX,lm.licenses.adobe.com
+DOMAIN-SUFFIX,na1r.services.adobe.com
+DOMAIN-SUFFIX,cc-api-data.adobe.io
 DOMAIN-SUFFIX,licenses.adobe.com
 
 # Adobe 相关 IP 段
