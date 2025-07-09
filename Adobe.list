@@ -1,0 +1,32 @@
+# 内容：Adobe
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,adobelogin
+DOMAIN-KEYWORD,adobecc
+DOMAIN-KEYWORD,adobesc
+DOMAIN-KEYWORD,adobeevent
+DOMAIN-KEYWORD,adobemarketingcloud
+DOMAIN-KEYWORD,adobetag
+DOMAIN-KEYWORD,adobe-dns
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,cc-api-data.adobe.io
+DOMAIN-SUFFIX,cc-api-storage.adobe.io
+DOMAIN-SUFFIX,ims-na1.adobelogin.com
+DOMAIN-SUFFIX,prod.adobegenuine.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,qa80h1wxzv.adobestats.io
+DOMAIN-SUFFIX,rnbwa37bqm.adobestats.io
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobelogin.com
+
+# IP匹配
+IP-CIDR,193.104.215.0/24,no-resolve
+IP-CIDR,192.150.14.0/24,no-resolve
+IP-CIDR,192.150.18.0/24,no-resolve
+IP-CIDR,192.150.22.0/24,no-resolve
+IP-CIDR,192.150.8.0/24,no-resolve
+IP-CIDR,192.150.12.0/24,no-resolve
+IP-CIDR,192.150.16.0/24,no-resolve
+IP-CIDR,192.150.49.0/24,no-resolve
